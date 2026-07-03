@@ -1,4 +1,4 @@
-# 
+# Automatic JetBrains IntelliJ IDEA themes for Mac OS | Lightweight JetBrains IntelliJ IDEA themes for PC Windows. Featuring code-navigation and live-templates — optimized for maximum performance on every platform.
 
 
 
